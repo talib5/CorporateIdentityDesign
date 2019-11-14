@@ -5,6 +5,8 @@
 # # Mobil Uygulama Tasarımı (Mobile App UI/UX Design)
 # # Kurumsal Kimlik Tasarımı
 
+- Kurumsal Tasarımın Avantajları
+- Ürünlerde Standart ve Standartın dışındaki ölçüler
 - Marka Ürünlerinin Tasarlanması
 
 - Adobe Creative Suite yazılımlarını tanıyalım
