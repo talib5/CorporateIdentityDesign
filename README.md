@@ -3,7 +3,8 @@
 # Kurumsal Dijital Ürünlerin Tasarlanması
 # # Web Tasarımı (Website UI Design)
 # # Mobil Uygulama Tasarımı (Mobile App UI/UX Design)
-# # Kurumsal Kimlik Tasarımı
+
+# Kurumsal Kimlik Tasarımı
 
 - Kurumsal Tasarımın Avantajları
 - Ürünlerde Standart ve Standartın dışındaki ölçüler
