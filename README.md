@@ -16,8 +16,10 @@
 - - Adobe Photoshop Kullanımı
 - - - Nesneyi Temizlemek
 - - - Nesneyi Dekupe Etmek
+- - - Fontlar İle Çalışmak
 - - Adebe Illustrator Kullanımı
 - - - Adobe Illustrator ile Vektörel Çizim
+- - - Fontlar İle Çalışmak
 - - Adobe Indesign Kullanımı
 
 - Kurumsal Reklam Ürünlerini Üretebileceğimiz adresler
