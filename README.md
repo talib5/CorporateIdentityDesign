@@ -1,8 +1,8 @@
 # Dijital Tasarım
 
-# Kurumsal Dijital Ürünlerin Tasarlanması
-# # Web Tasarımı (Website UI Design)
-# # Mobil Uygulama Tasarımı (Mobile App UI/UX Design)
+- Kurumsal Dijital Ürünlerin Tasarlanması
+- Web Tasarımı (Website UI Design)
+- Mobil Uygulama Tasarımı (Mobile App UI/UX Design)
 
 # Kurumsal Kimlik Tasarımı
 
